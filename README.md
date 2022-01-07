@@ -27,8 +27,8 @@ Thank you for giving us a try, being an early adopter, and the very foundation o
 Privacy Policy URL:
 https://app.termly.io/document/terms-of-use-for-ios-app/746ce285-982e-44b7-9460-41e65852f7a4
 
-Support contact:
-
+Contact:
+Jamil@getupdate.com
 
 <!--
 **update-dating-app/update-dating-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
